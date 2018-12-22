@@ -1,0 +1,15 @@
+body,
+htlm {
+  background-color: #151825;
+  font-family: $titleFontFamily;
+  margin: 0;
+  overflow-x: hidden;
+  height: 100%;
+  min-height: 100%;
+  color: white;
+}
+
+body{
+  display: flex;
+  flex-direction: column;
+}
